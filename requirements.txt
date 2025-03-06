@@ -1,3 +1,7 @@
 streamlit
-requests
-
+pandas
+sqlite3
+plotly
+altair
+matplotlib
+seaborn
